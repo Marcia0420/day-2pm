@@ -1,0 +1,161 @@
+.global {
+    border: 1px solid lightgray;
+    margin: 50px auto;
+    width: 90%;
+}
+
+.titulo {
+    padding: 15px;
+    background-color: ghostwhite;
+    border-bottom: 1px solid lightgray;
+}
+
+
+.error {
+    background-color: mistyrose;
+    color:brown;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.tarjeta {
+    margin: 15px;
+    display: flex;
+}
+
+.card {
+    width: 40%;
+}
+
+.carduno {
+    width: 80%;
+}
+
+.carddos {
+    width: 85%;
+    margin-top: 5px;
+}
+
+.cvc {
+    width: 25%;
+}
+
+.cvcuno{
+    width: 85%;
+    margin-top: 5px;    
+}
+
+.amount {
+    width: 35%;
+}
+
+.inputamount {
+    display: flex;
+    width: 100%;
+    margin-top: 5px;  
+}
+
+.amountuno {
+    width: 100%;
+}
+
+.datospersonales {
+    margin: 15px;
+    display: flex;
+}
+
+.datospersonales1 {
+    width: 50%;
+}
+
+.firstnameinput {
+    margin-top: 5px;
+    width: 95%;
+}
+
+.city {
+    margin-top: 15px;
+    width: 95%;
+}
+
+.cityinput {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.weaccept {
+    margin-top: 15px;
+}
+
+.pagos {
+    margin-top: 15px;
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+
+.datospersonales2 {
+    width: 50%;
+    margin: 0px 5px 5px 5px;
+}
+
+.lastnameinput {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.stateypostal{
+    display: flex;
+}
+
+.state {
+    margin-top: 15px;
+    width: 95%;
+}
+
+.stateinput{
+    margin-top: 5px;
+    width: 90%;
+    padding: 1.5px;
+}
+
+.postal {
+    margin-top: 15px;
+    width: 95%;
+}
+
+.postalinput {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.message {
+    margin-top: 15px;
+}
+
+.textarea {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.bajotextarea{
+    color: grey;
+}
+
+.botones{
+    padding: 15px;
+    background-color: ghostwhite;
+    display: flex;
+    border-top: 1px solid lightgray;
+    justify-content: right;
+}
+
+
+.bg-nav {
+    background-color: rgb(225, 235, 247);}
+.border-grey {
+        border: 1px solid rgba(248, 254, 255, 0.336);
+      }
